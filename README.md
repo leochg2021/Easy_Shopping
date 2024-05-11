@@ -1,2 +1,8 @@
-# ProjEasyShop
-Projeto focado na responsividade do site para dispositivos movél (Celular Iphone SE). 
+<h1>Easy Shopping</h1>
+<br>
+<br>
+<br>
+
+<h2>Projeto focado na responsividade do site trabalho elaborado com auxilio de <a href="https://rodolfomori.com.br/devclub">DevClub</a> para dispositivos moveis (Celular Iphone SE).</h2>
+<h2>Tecnologias do projeto: Html e Css</h2>
+
