@@ -6,6 +6,7 @@
 <h2>Tecnologias do projeto: Html e Css</h2>
 
 <img aling="center" src="https://github.com/leochg2021/Easy_Shopping/blob/main/assest/pc.png?raw=true" />
+
 <img aling="center" src="https://github.com/leochg2021/Easy_Shopping/blob/main/assest/smpho.png?raw=true"/>
 
 
